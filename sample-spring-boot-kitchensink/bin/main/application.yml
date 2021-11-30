@@ -13,13 +13,14 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-This is a template for the configuration file.
-Make a copy called `application.yml` and change the values below.
+# This is a template for the configuration file.
+# Make a copy called `application.yml` and change the values below.
 
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
-  handler.path: /callback
+  channel-token: 'zzbB1rbc6jBw/X1vqKfnv4K4BuuinEZTs/86m87ly56dx7gNu5MI6jPpG2HdHS2jM7rWsupltT8E/Ec2EZsPHPG4A+LOYlppiL+kU1qfHm6C5Y/KhTIYu3G+7rO+edWR2BJvjVndZe7rHZcvHHayJAdB04t89/1O/w1cDnyilFU='
+  channel-secret: 'f52d65edcfaca769f7484b8f1ed964a1'
+  handler.path: https://ho-so-bot.herokuapp.com/callback
+
 
 # To remove Client wire logs. Please comment out following lines.
 # See: https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html
